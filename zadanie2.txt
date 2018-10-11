@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a ja ja usuwam,
+=======
+
+dodatkowa linia
+>>>>>>> 033d737cc32ef3e2448b13b0879b0290ea2a39a3
 dodaje jakakolwiek zawartosc, elo
